@@ -3,13 +3,14 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
 import 'package:get/instance_manager.dart';
-import 'package:video_app/controllers/auth.dart';
 import 'package:http/http.dart' as http;
 import 'package:share_plus/share_plus.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:provider/provider.dart';
-import '../controllers/profile.dart';
 import 'package:avatar_glow/avatar_glow.dart';
+
+import '../controllers/auth.dart';
+import '../controllers/profile.dart';
 
 class Profile extends StatefulWidget {
   final String uid;
