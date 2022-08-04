@@ -13,11 +13,11 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->C:\Yash\CINS467-mobile-project\video_app\android\app\src\debug\AndroidManifest.xml:7:5-66
-15-->C:\Yash\CINS467-mobile-project\video_app\android\app\src\debug\AndroidManifest.xml:7:22-64
+15-->C:\Yash\CINS467-MobileProject\video_app\android\app\src\debug\AndroidManifest.xml:7:5-66
+15-->C:\Yash\CINS467-MobileProject\video_app\android\app\src\debug\AndroidManifest.xml:7:22-64
 16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-16-->[:video_compress] C:\Yash\CINS467-mobile-project\video_app\build\video_compress\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
-16-->[:video_compress] C:\Yash\CINS467-mobile-project\video_app\build\video_compress\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
+16-->[:video_compress] C:\Yash\CINS467-MobileProject\video_app\build\video_compress\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
+16-->[:video_compress] C:\Yash\CINS467-MobileProject\video_app\build\video_compress\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
 17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 18-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\ysoni\.gradle\caches\transforms-3\cfaf754a77ec3bf2dee823207bbc55dd\transformed\jetified-firebase-auth-21.0.5\AndroidManifest.xml:24:5-79
@@ -64,37 +64,37 @@
 57            android:value="2" />
 58
 59        <service
-59-->[:cloud_firestore] C:\Yash\CINS467-mobile-project\video_app\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+59-->[:cloud_firestore] C:\Yash\CINS467-MobileProject\video_app\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
 60            android:name="com.google.firebase.components.ComponentDiscoveryService"
-60-->[:cloud_firestore] C:\Yash\CINS467-mobile-project\video_app\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
+60-->[:cloud_firestore] C:\Yash\CINS467-MobileProject\video_app\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
 61            android:directBootAware="true"
 61-->[com.google.firebase:firebase-common:20.1.1] C:\Users\ysoni\.gradle\caches\transforms-3\38e97678fc0b2269e99f6580e70ed26a\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
 62            android:exported="false" >
 62-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\ysoni\.gradle\caches\transforms-3\cfaf754a77ec3bf2dee823207bbc55dd\transformed\jetified-firebase-auth-21.0.5\AndroidManifest.xml:66:13-37
 63            <meta-data
-63-->[:cloud_firestore] C:\Yash\CINS467-mobile-project\video_app\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+63-->[:cloud_firestore] C:\Yash\CINS467-MobileProject\video_app\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 64                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-64-->[:cloud_firestore] C:\Yash\CINS467-mobile-project\video_app\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
+64-->[:cloud_firestore] C:\Yash\CINS467-MobileProject\video_app\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
 65                android:value="com.google.firebase.components.ComponentRegistrar" />
-65-->[:cloud_firestore] C:\Yash\CINS467-mobile-project\video_app\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+65-->[:cloud_firestore] C:\Yash\CINS467-MobileProject\video_app\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 66            <meta-data
-66-->[:firebase_auth] C:\Yash\CINS467-mobile-project\video_app\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+66-->[:firebase_auth] C:\Yash\CINS467-MobileProject\video_app\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 67                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-67-->[:firebase_auth] C:\Yash\CINS467-mobile-project\video_app\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+67-->[:firebase_auth] C:\Yash\CINS467-MobileProject\video_app\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 68                android:value="com.google.firebase.components.ComponentRegistrar" />
-68-->[:firebase_auth] C:\Yash\CINS467-mobile-project\video_app\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+68-->[:firebase_auth] C:\Yash\CINS467-MobileProject\video_app\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 69            <meta-data
-69-->[:firebase_storage] C:\Yash\CINS467-mobile-project\video_app\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+69-->[:firebase_storage] C:\Yash\CINS467-MobileProject\video_app\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 70                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
-70-->[:firebase_storage] C:\Yash\CINS467-mobile-project\video_app\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-126
+70-->[:firebase_storage] C:\Yash\CINS467-MobileProject\video_app\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-126
 71                android:value="com.google.firebase.components.ComponentRegistrar" />
-71-->[:firebase_storage] C:\Yash\CINS467-mobile-project\video_app\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+71-->[:firebase_storage] C:\Yash\CINS467-MobileProject\video_app\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 72            <meta-data
-72-->[:firebase_core] C:\Yash\CINS467-mobile-project\video_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+72-->[:firebase_core] C:\Yash\CINS467-MobileProject\video_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 73                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-73-->[:firebase_core] C:\Yash\CINS467-mobile-project\video_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+73-->[:firebase_core] C:\Yash\CINS467-MobileProject\video_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 74                android:value="com.google.firebase.components.ComponentRegistrar" />
-74-->[:firebase_core] C:\Yash\CINS467-mobile-project\video_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+74-->[:firebase_core] C:\Yash\CINS467-MobileProject\video_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 75            <meta-data
 75-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\ysoni\.gradle\caches\transforms-3\cfaf754a77ec3bf2dee823207bbc55dd\transformed\jetified-firebase-auth-21.0.5\AndroidManifest.xml:67:13-69:85
 76                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
@@ -116,48 +116,48 @@
 84        </service>
 85
 86        <provider
-86-->[:image_picker_android] C:\Yash\CINS467-mobile-project\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+86-->[:image_picker_android] C:\Yash\CINS467-MobileProject\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
 87            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-87-->[:image_picker_android] C:\Yash\CINS467-mobile-project\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
+87-->[:image_picker_android] C:\Yash\CINS467-MobileProject\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
 88            android:authorities="com.example.video_app.flutter.image_provider"
-88-->[:image_picker_android] C:\Yash\CINS467-mobile-project\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
+88-->[:image_picker_android] C:\Yash\CINS467-MobileProject\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
 89            android:exported="false"
-89-->[:image_picker_android] C:\Yash\CINS467-mobile-project\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+89-->[:image_picker_android] C:\Yash\CINS467-MobileProject\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
 90            android:grantUriPermissions="true" >
-90-->[:image_picker_android] C:\Yash\CINS467-mobile-project\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+90-->[:image_picker_android] C:\Yash\CINS467-MobileProject\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
 91            <meta-data
-91-->[:image_picker_android] C:\Yash\CINS467-mobile-project\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
+91-->[:image_picker_android] C:\Yash\CINS467-MobileProject\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
 92                android:name="android.support.FILE_PROVIDER_PATHS"
-92-->[:image_picker_android] C:\Yash\CINS467-mobile-project\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+92-->[:image_picker_android] C:\Yash\CINS467-MobileProject\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
 93                android:resource="@xml/flutter_image_picker_file_paths" />
-93-->[:image_picker_android] C:\Yash\CINS467-mobile-project\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
+93-->[:image_picker_android] C:\Yash\CINS467-MobileProject\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
 94        </provider>
 95
 96        <activity
-96-->[:url_launcher_android] C:\Yash\CINS467-mobile-project\video_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
+96-->[:url_launcher_android] C:\Yash\CINS467-MobileProject\video_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
 97            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-97-->[:url_launcher_android] C:\Yash\CINS467-mobile-project\video_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
+97-->[:url_launcher_android] C:\Yash\CINS467-MobileProject\video_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
 98            android:exported="false"
-98-->[:url_launcher_android] C:\Yash\CINS467-mobile-project\video_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
+98-->[:url_launcher_android] C:\Yash\CINS467-MobileProject\video_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
 99            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-99-->[:url_launcher_android] C:\Yash\CINS467-mobile-project\video_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
+99-->[:url_launcher_android] C:\Yash\CINS467-MobileProject\video_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
 100
 101        <provider
-101-->[:share_plus] C:\Yash\CINS467-mobile-project\video_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+101-->[:share_plus] C:\Yash\CINS467-MobileProject\video_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
 102            android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
-102-->[:share_plus] C:\Yash\CINS467-mobile-project\video_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-77
+102-->[:share_plus] C:\Yash\CINS467-MobileProject\video_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-77
 103            android:authorities="com.example.video_app.flutter.share_provider"
-103-->[:share_plus] C:\Yash\CINS467-mobile-project\video_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
+103-->[:share_plus] C:\Yash\CINS467-MobileProject\video_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
 104            android:exported="false"
-104-->[:share_plus] C:\Yash\CINS467-mobile-project\video_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+104-->[:share_plus] C:\Yash\CINS467-MobileProject\video_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
 105            android:grantUriPermissions="true" >
-105-->[:share_plus] C:\Yash\CINS467-mobile-project\video_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+105-->[:share_plus] C:\Yash\CINS467-MobileProject\video_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
 106            <meta-data
-106-->[:image_picker_android] C:\Yash\CINS467-mobile-project\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
+106-->[:image_picker_android] C:\Yash\CINS467-MobileProject\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
 107                android:name="android.support.FILE_PROVIDER_PATHS"
-107-->[:image_picker_android] C:\Yash\CINS467-mobile-project\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+107-->[:image_picker_android] C:\Yash\CINS467-MobileProject\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
 108                android:resource="@xml/flutter_share_file_paths" />
-108-->[:image_picker_android] C:\Yash\CINS467-mobile-project\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
+108-->[:image_picker_android] C:\Yash\CINS467-MobileProject\video_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
 109        </provider>
 110
 111        <uses-library

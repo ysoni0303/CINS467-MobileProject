@@ -40,6 +40,15 @@ class _ProfilePageState extends State<Profile> {
     }
   }
 
+  void _share(uri) async {
+    final response = await http.get(uri);
+    final bytes = response.bodyBytes;
+    final directory = await getTemporaryDirectory();
+    final path = '${directory.path}/image.jpeg';
+    File('${directory.path}/image.jpeg').writeAsBytesSync(bytes);
+    await Share.shareFiles([path]);
+  }
+
   @override
   Widget build(BuildContext context) {
     return GetBuilder<ProfileController>(
@@ -213,16 +222,10 @@ class _ProfilePageState extends State<Profile> {
                             ),
                             child: Center(
                               child: InkWell(
-                                onTap: () async {
-                                  final uri = Uri.parse(controller
+                                onTap: () {
+                                  _share(Uri.parse(controller
                                       .user['profilePhoto']
-                                      .toString());
-                                  final res = await http.get(uri);
-                                  final bytes = res.bodyBytes;
-                                  final temp = await getTemporaryDirectory();
-                                  final path = '${temp.path}/image.jpeg';
-                                  File(path).writeAsBytesSync(bytes);
-                                  await Share.shareFiles([path]);
+                                      .toString()));
                                 },
                                 child: Text(
                                   'Share Profile',
