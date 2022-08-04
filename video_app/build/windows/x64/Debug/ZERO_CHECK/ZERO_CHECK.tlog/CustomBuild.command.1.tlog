@@ -1,0 +1,10 @@
+^C:\YASH\CINS467-MOBILE-PROJECT\VIDEO_APP\BUILD\WINDOWS\CMAKEFILES\C87F3961AAF93E6132A72AB4F26C5220\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Yash/CINS467-mobile-project/video_app/windows -BC:/Yash/CINS467-mobile-project/video_app/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Yash/CINS467-mobile-project/video_app/build/windows/video_app.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

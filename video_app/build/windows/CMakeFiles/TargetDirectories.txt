@@ -1,0 +1,10 @@
+C:/Yash/CINS467-mobile-project/video_app/build/windows/CMakeFiles/INSTALL.dir
+C:/Yash/CINS467-mobile-project/video_app/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Yash/CINS467-mobile-project/video_app/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Yash/CINS467-mobile-project/video_app/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Yash/CINS467-mobile-project/video_app/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Yash/CINS467-mobile-project/video_app/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Yash/CINS467-mobile-project/video_app/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Yash/CINS467-mobile-project/video_app/build/windows/runner/CMakeFiles/video_app.dir
+C:/Yash/CINS467-mobile-project/video_app/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Yash/CINS467-mobile-project/video_app/build/windows/runner/CMakeFiles/ALL_BUILD.dir

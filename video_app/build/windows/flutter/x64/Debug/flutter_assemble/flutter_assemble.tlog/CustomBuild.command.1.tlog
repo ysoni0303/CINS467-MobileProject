@@ -1,0 +1,28 @@
+^C:\YASH\CINS467-MOBILE-PROJECT\VIDEO_APP\BUILD\WINDOWS\CMAKEFILES\766FBD19769535885A68CE06C61F2DCA\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter PROJECT_DIR=C:\Yash\CINS467-mobile-project\video_app FLUTTER_ROOT=C:\src\flutter FLUTTER_EPHEMERAL_DIR=C:\Yash\CINS467-mobile-project\video_app\windows\flutter\ephemeral PROJECT_DIR=C:\Yash\CINS467-mobile-project\video_app FLUTTER_TARGET=C:\Yash\CINS467-mobile-project\video_app\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Yash\CINS467-mobile-project\video_app\.dart_tool\package_config.json C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\YASH\CINS467-MOBILE-PROJECT\VIDEO_APP\BUILD\WINDOWS\CMAKEFILES\B5DEADFC6AA6BFFEF08FA55DD2B12F92\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\YASH\CINS467-MOBILE-PROJECT\VIDEO_APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Yash/CINS467-mobile-project/video_app/windows -BC:/Yash/CINS467-mobile-project/video_app/build/windows --check-stamp-file C:/Yash/CINS467-mobile-project/video_app/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

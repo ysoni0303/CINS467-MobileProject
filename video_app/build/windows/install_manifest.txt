@@ -1,0 +1,9 @@
+C:/Yash/CINS467-mobile-project/video_app/build/windows/runner/Debug/data/icudtl.dat
+C:/Yash/CINS467-mobile-project/video_app/build/windows/runner/Debug/flutter_windows.dll
+C:/Yash/CINS467-mobile-project/video_app/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Yash/CINS467-mobile-project/video_app/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Yash/CINS467-mobile-project/video_app/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Yash/CINS467-mobile-project/video_app/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Yash/CINS467-mobile-project/video_app/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Yash/CINS467-mobile-project/video_app/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Yash/CINS467-mobile-project/video_app/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
