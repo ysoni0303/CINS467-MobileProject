@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Yash\\CINS467-mobile-project\\video_app\\build\\sqflite\\intermediates\\merged_res\\release\\values-fi\\values-fi.xml",
+            "outputFile": "C:\\Yash\\CINS467-MobileProject\\video_app\\build\\sqflite\\intermediates\\merged_res\\release\\values-fi\\values-fi.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ysoni\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\values-fi\\values-fi.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Yash\\CINS467-mobile-project\\video_app\\build\\sqflite\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fi\\values-fi.xml",
+            "outputFile": "C:\\Yash\\CINS467-MobileProject\\video_app\\build\\sqflite\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fi\\values-fi.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ysoni\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\values-fi\\values-fi.xml",

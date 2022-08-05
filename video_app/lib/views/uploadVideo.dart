@@ -23,25 +23,29 @@ class AddVideo extends StatelessWidget {
     return showDialog(
         context: context,
         builder: (BuildContext context) {
-          return Expanded(
-            child: SimpleDialog(
-              title: Text('Choose Option:'),
-              children: [
-                SimpleDialogOption(
-                  onPressed: () {
-                    pickVideo(ImageSource.gallery, context);
-                  },
-                  child: const Text('Gallery'),
+          return Column(
+            children: [
+              Expanded(
+                child: SimpleDialog(
+                  title: Text('Choose Option:'),
+                  children: [
+                    SimpleDialogOption(
+                      onPressed: () {
+                        pickVideo(ImageSource.gallery, context);
+                      },
+                      child: const Text('Gallery'),
+                    ),
+                    SimpleDialogOption(
+                      onPressed: () {
+                        pickVideo(ImageSource.camera, context);
+                      },
+                      child: const Text('Camera'),
+                    ),
+                  ],
+                  elevation: 10,
                 ),
-                SimpleDialogOption(
-                  onPressed: () {
-                    pickVideo(ImageSource.camera, context);
-                  },
-                  child: const Text('Camera'),
-                ),
-              ],
-              elevation: 10,
-            ),
+              ),
+            ],
           );
         });
   }

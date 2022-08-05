@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Yash\\CINS467-mobile-project\\video_app\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ru\\values-ru.xml",
+            "outputFile": "C:\\Yash\\CINS467-MobileProject\\video_app\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ru\\values-ru.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ysoni\\.gradle\\caches\\transforms-3\\05304738454a7c6fee076a188df4c25d\\transformed\\browser-1.4.0\\res\\values-ru\\values-ru.xml",

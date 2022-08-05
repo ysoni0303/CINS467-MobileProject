@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Yash\\CINS467-mobile-project\\video_app\\build\\firebase_storage\\intermediates\\merged_res\\release\\values-lo\\values-lo.xml",
+            "outputFile": "C:\\Yash\\CINS467-MobileProject\\video_app\\build\\firebase_storage\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lo\\values-lo.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ysoni\\.gradle\\caches\\transforms-3\\601d4158b382ad9f634d3bbb23a34c83\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-lo\\values.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Yash\\CINS467-mobile-project\\video_app\\build\\firebase_storage\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lo\\values-lo.xml",
+            "outputFile": "C:\\Yash\\CINS467-MobileProject\\video_app\\build\\firebase_storage\\intermediates\\merged_res\\release\\values-lo\\values-lo.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ysoni\\.gradle\\caches\\transforms-3\\601d4158b382ad9f634d3bbb23a34c83\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-lo\\values.xml",

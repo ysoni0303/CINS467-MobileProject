@@ -76,6 +76,10 @@ class _LoginPageState extends State<SignUp> {
           children: <Widget>[
             _buildTextFields(),
             _buildButtons(),
+            new Text(
+              'Note- Profile picture is compulsory, while registration!!',
+              style: TextStyle(color: Colors.red),
+            ),
           ],
         ),
       ),
@@ -107,7 +111,7 @@ class _LoginPageState extends State<SignUp> {
                   onPressed: () => AuthController.instance.uploadImage(),
                   icon: Icon(Icons.add_a_photo),
                 ), // IconButton
-              )
+              ),
             ],
           ),
           SizedBox(

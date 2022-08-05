@@ -1,4 +1,4 @@
-# The proguard configuration file for the following section is C:\Yash\CINS467-mobile-project\video_app\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.1.2
+# The proguard configuration file for the following section is C:\Yash\CINS467-MobileProject\video_app\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.1.2
 # This is a configuration file for ProGuard.
 # http://proguard.sourceforge.net/index.html#manual/usage.html
 #
@@ -116,7 +116,7 @@
 # These classes are duplicated between android.jar and core-lambda-stubs.jar.
 -dontnote java.lang.invoke.**
 
-# End of content from C:\Yash\CINS467-mobile-project\video_app\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.1.2
+# End of content from C:\Yash\CINS467-MobileProject\video_app\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.1.2
 # The proguard configuration file for the following section is C:\src\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro
 # Build the ephemeral app in a module project.
 # Prevents: Warning: library class <plugin-package> depends on program class io.flutter.plugin.**
@@ -127,7 +127,7 @@
 -dontwarn android.**
 
 # End of content from C:\src\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro
-# The proguard configuration file for the following section is C:\Yash\CINS467-mobile-project\video_app\build\app\intermediates\aapt_proguard_file\release\aapt_rules.txt
+# The proguard configuration file for the following section is C:\Yash\CINS467-MobileProject\video_app\build\app\intermediates\aapt_proguard_file\release\aapt_rules.txt
 -keep class android.app.Application { <init>(); }
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
 -keep class com.example.video_app.MainActivity { <init>(); }
@@ -142,8 +142,8 @@
 -keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(android.content.Context, android.util.AttributeSet); }
 
 
-# End of content from C:\Yash\CINS467-mobile-project\video_app\build\app\intermediates\aapt_proguard_file\release\aapt_rules.txt
-# The proguard configuration file for the following section is C:\Yash\CINS467-mobile-project\video_app\build\flutter_plugin_android_lifecycle\intermediates\consumer_proguard_dir\release\lib0\proguard.txt
+# End of content from C:\Yash\CINS467-MobileProject\video_app\build\app\intermediates\aapt_proguard_file\release\aapt_rules.txt
+# The proguard configuration file for the following section is C:\Yash\CINS467-MobileProject\video_app\build\flutter_plugin_android_lifecycle\intermediates\consumer_proguard_dir\release\lib0\proguard.txt
 # The point of this package is to specify that a dependent plugin intends to
 # use the AndroidX lifecycle classes. Make sure no R8 heuristics shrink classes
 # brought in by the embedding's pom.
@@ -154,7 +154,7 @@
 # https://issuetracker.google.com/issues/142778206.
 -keep class androidx.lifecycle.DefaultLifecycleObserver
 
-# End of content from C:\Yash\CINS467-mobile-project\video_app\build\flutter_plugin_android_lifecycle\intermediates\consumer_proguard_dir\release\lib0\proguard.txt
+# End of content from C:\Yash\CINS467-MobileProject\video_app\build\flutter_plugin_android_lifecycle\intermediates\consumer_proguard_dir\release\lib0\proguard.txt
 # The proguard configuration file for the following section is C:\Users\ysoni\.gradle\caches\transforms-3\aa9a03c6b4403569e7e078a6b7a39586\transformed\jetified-egloo-0.6.1\proguard.txt
 # Add project specific ProGuard rules here.
 # By default, the flags in this file are appended to flags specified

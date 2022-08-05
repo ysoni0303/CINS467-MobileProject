@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Yash\\CINS467-mobile-project\\video_app\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "C:\\Yash\\CINS467-MobileProject\\video_app\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ysoni\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
@@ -40,7 +40,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Yash\\CINS467-mobile-project\\video_app\\build\\firebase_core\\intermediates\\merged_res\\release\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "C:\\Yash\\CINS467-MobileProject\\video_app\\build\\firebase_core\\intermediates\\merged_res\\release\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ysoni\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
