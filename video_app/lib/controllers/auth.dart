@@ -7,7 +7,8 @@ import 'dart:io' as i;
 
 import '../models/user.dart' as model;
 import '../views/login.dart';
-import '../views/home.dart';
+// import '../views/home.dart';
+import '../views/addpage.dart';
 
 class AuthController extends GetxController {
   static AuthController instance = Get.find();
@@ -32,7 +33,7 @@ class AuthController extends GetxController {
     if (user == null) {
       Get.offAll(Login());
     } else {
-      Get.offAll(Home());
+      Get.offAll(AddPage());
     }
   }
 
@@ -92,7 +93,7 @@ class AuthController extends GetxController {
         await FirebaseAuth.instance
             .signInWithEmailAndPassword(email: email, password: password);
         print('Logged in already');
-        Get.offAll(Home());
+        Get.offAll(AddPage());
       } else {
         Get.snackbar('Error logging', 'Check details');
       }
